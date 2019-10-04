@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - point
+  - TurnPoint
+  - PowerUp
+  - MsPacMan
   layers:
   - Default
   - TransparentFX
