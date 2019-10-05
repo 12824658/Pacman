@@ -60,6 +60,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Gameboard.cs" />
+    <Compile Include="Assets\Scripts\MsPacman.cs" />
     <Compile Include="Assets\Scripts\TurningPoint.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/HIEU PC/Desktop/Introduction to Computer Game Development Spring 2019/Repo/MsPacman/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>

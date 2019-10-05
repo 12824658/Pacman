@@ -191,6 +191,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5833040}
   - component: {fileID: 5833041}
+  - component: {fileID: 5833042}
   m_Layer: 0
   m_Name: Point (49)
   m_TagString: TurnPoint
@@ -228,6 +229,22 @@ MonoBehaviour:
   - {fileID: 1809927365}
   - {fileID: 2059047433}
   vectToNextPoint: []
+--- !u!58 &5833042
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5833039}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &6552875 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -487,6 +504,7 @@ GameObject:
   m_Component:
   - component: {fileID: 35856916}
   - component: {fileID: 35856917}
+  - component: {fileID: 35856918}
   m_Layer: 0
   m_Name: Point (6)
   m_TagString: TurnPoint
@@ -524,6 +542,22 @@ MonoBehaviour:
   - {fileID: 166743456}
   - {fileID: 611898086}
   vectToNextPoint: []
+--- !u!58 &35856918
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 35856915}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &37245712 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -1002,6 +1036,7 @@ GameObject:
   m_Component:
   - component: {fileID: 87530294}
   - component: {fileID: 87530295}
+  - component: {fileID: 87530296}
   m_Layer: 0
   m_Name: Point (61)
   m_TagString: TurnPoint
@@ -1041,6 +1076,22 @@ MonoBehaviour:
   - {fileID: 837595542}
   - {fileID: 434285520}
   vectToNextPoint: []
+--- !u!58 &87530296
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 87530293}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &88774032
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1270,6 +1321,7 @@ GameObject:
   m_Component:
   - component: {fileID: 101755091}
   - component: {fileID: 101755092}
+  - component: {fileID: 101755093}
   m_Layer: 0
   m_Name: Point (5)
   m_TagString: TurnPoint
@@ -1307,6 +1359,22 @@ MonoBehaviour:
   - {fileID: 2029139891}
   - {fileID: 1165071464}
   vectToNextPoint: []
+--- !u!58 &101755093
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 101755090}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &104515306
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1599,6 +1667,7 @@ GameObject:
   m_Component:
   - component: {fileID: 111042887}
   - component: {fileID: 111042888}
+  - component: {fileID: 111042889}
   m_Layer: 0
   m_Name: Point (51)
   m_TagString: TurnPoint
@@ -1636,6 +1705,22 @@ MonoBehaviour:
   - {fileID: 172524149}
   - {fileID: 2002061717}
   vectToNextPoint: []
+--- !u!58 &111042889
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 111042886}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &111105733 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -1721,6 +1806,7 @@ GameObject:
   m_Component:
   - component: {fileID: 113503343}
   - component: {fileID: 113503344}
+  - component: {fileID: 113503345}
   m_Layer: 0
   m_Name: Point (42)
   m_TagString: TurnPoint
@@ -1758,6 +1844,22 @@ MonoBehaviour:
   - {fileID: 1871226356}
   - {fileID: 2028632327}
   vectToNextPoint: []
+--- !u!58 &113503345
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 113503342}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &117029939
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1843,6 +1945,7 @@ GameObject:
   m_Component:
   - component: {fileID: 124926779}
   - component: {fileID: 124926780}
+  - component: {fileID: 124926781}
   m_Layer: 0
   m_Name: Point (4)
   m_TagString: TurnPoint
@@ -1880,6 +1983,22 @@ MonoBehaviour:
   - {fileID: 234459823}
   - {fileID: 2029139891}
   vectToNextPoint: []
+--- !u!58 &124926781
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 124926778}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &126861022
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2709,6 +2828,7 @@ GameObject:
   m_Component:
   - component: {fileID: 166743455}
   - component: {fileID: 166743456}
+  - component: {fileID: 166743457}
   m_Layer: 0
   m_Name: Point
   m_TagString: TurnPoint
@@ -2746,6 +2866,22 @@ MonoBehaviour:
   - {fileID: 229349539}
   - {fileID: 35856917}
   vectToNextPoint: []
+--- !u!58 &166743457
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 166743454}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &167911118 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -2762,6 +2898,7 @@ GameObject:
   m_Component:
   - component: {fileID: 172524148}
   - component: {fileID: 172524149}
+  - component: {fileID: 172524150}
   m_Layer: 0
   m_Name: Point (50)
   m_TagString: TurnPoint
@@ -2800,6 +2937,22 @@ MonoBehaviour:
   - {fileID: 1809927365}
   - {fileID: 1016192061}
   vectToNextPoint: []
+--- !u!58 &172524150
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 172524147}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &174481439
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2879,6 +3032,7 @@ GameObject:
   m_Component:
   - component: {fileID: 174551364}
   - component: {fileID: 174551365}
+  - component: {fileID: 174551366}
   m_Layer: 0
   m_Name: Point (33)
   m_TagString: TurnPoint
@@ -2917,6 +3071,22 @@ MonoBehaviour:
   - {fileID: 2059047433}
   - {fileID: 2026861993}
   vectToNextPoint: []
+--- !u!58 &174551366
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 174551363}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &177318611
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2996,6 +3166,7 @@ GameObject:
   m_Component:
   - component: {fileID: 177954818}
   - component: {fileID: 177954819}
+  - component: {fileID: 177954820}
   m_Layer: 0
   m_Name: Point (22)
   m_TagString: TurnPoint
@@ -3033,6 +3204,22 @@ MonoBehaviour:
   - {fileID: 1238018934}
   - {fileID: 1174441303}
   vectToNextPoint: []
+--- !u!58 &177954820
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 177954817}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &180197064 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -3061,6 +3248,7 @@ GameObject:
   m_Component:
   - component: {fileID: 182245696}
   - component: {fileID: 182245697}
+  - component: {fileID: 182245698}
   m_Layer: 0
   m_Name: Point (36)
   m_TagString: TurnPoint
@@ -3097,6 +3285,22 @@ MonoBehaviour:
   nextPoints:
   - {fileID: 534902197}
   vectToNextPoint: []
+--- !u!58 &182245698
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 182245695}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1 &192882519
 GameObject:
   m_ObjectHideFlags: 0
@@ -3107,6 +3311,7 @@ GameObject:
   m_Component:
   - component: {fileID: 192882520}
   - component: {fileID: 192882521}
+  - component: {fileID: 192882522}
   m_Layer: 0
   m_Name: Point (26)
   m_TagString: TurnPoint
@@ -3145,6 +3350,22 @@ MonoBehaviour:
   - {fileID: 1317206015}
   - {fileID: 1201875103}
   vectToNextPoint: []
+--- !u!58 &192882522
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 192882519}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &197526619
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3230,6 +3451,7 @@ GameObject:
   m_Component:
   - component: {fileID: 229349538}
   - component: {fileID: 229349539}
+  - component: {fileID: 229349540}
   m_Layer: 0
   m_Name: Point (1)
   m_TagString: TurnPoint
@@ -3269,6 +3491,22 @@ MonoBehaviour:
   - {fileID: 234459823}
   - {fileID: 965431289}
   vectToNextPoint: []
+--- !u!58 &229349540
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 229349537}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1 &234459821
 GameObject:
   m_ObjectHideFlags: 0
@@ -3279,6 +3517,7 @@ GameObject:
   m_Component:
   - component: {fileID: 234459822}
   - component: {fileID: 234459823}
+  - component: {fileID: 234459824}
   m_Layer: 0
   m_Name: Point (3)
   m_TagString: TurnPoint
@@ -3317,6 +3556,22 @@ MonoBehaviour:
   - {fileID: 124926780}
   - {fileID: 1934186743}
   vectToNextPoint: []
+--- !u!58 &234459824
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 234459821}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &245419205
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3609,6 +3864,7 @@ GameObject:
   m_Component:
   - component: {fileID: 270937412}
   - component: {fileID: 270937413}
+  - component: {fileID: 270937414}
   m_Layer: 0
   m_Name: Point (47)
   m_TagString: TurnPoint
@@ -3646,6 +3902,22 @@ MonoBehaviour:
   - {fileID: 1962539856}
   - {fileID: 1809927365}
   vectToNextPoint: []
+--- !u!58 &270937414
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 270937411}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &275138311
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3731,6 +4003,7 @@ GameObject:
   m_Component:
   - component: {fileID: 285621355}
   - component: {fileID: 285621356}
+  - component: {fileID: 285621357}
   m_Layer: 0
   m_Name: Point (54)
   m_TagString: TurnPoint
@@ -3770,6 +4043,22 @@ MonoBehaviour:
   - {fileID: 434285520}
   - {fileID: 1174441303}
   vectToNextPoint: []
+--- !u!58 &285621357
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 285621354}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &288731878 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -4264,6 +4553,7 @@ GameObject:
   m_Component:
   - component: {fileID: 333301643}
   - component: {fileID: 333301644}
+  - component: {fileID: 333301645}
   m_Layer: 0
   m_Name: Point (12)
   m_TagString: TurnPoint
@@ -4301,6 +4591,22 @@ MonoBehaviour:
   - {fileID: 2111459979}
   - {fileID: 2024418083}
   vectToNextPoint: []
+--- !u!58 &333301645
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 333301642}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &337447802 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -5070,7 +5376,7 @@ GameObject:
   m_Layer: 0
   m_Name: TurningPoints
   m_TagString: PowerUp
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -5179,6 +5485,7 @@ GameObject:
   m_Component:
   - component: {fileID: 434285519}
   - component: {fileID: 434285520}
+  - component: {fileID: 434285521}
   m_Layer: 0
   m_Name: Point (56)
   m_TagString: TurnPoint
@@ -5217,6 +5524,22 @@ MonoBehaviour:
   - {fileID: 87530295}
   - {fileID: 471503049}
   vectToNextPoint: []
+--- !u!58 &434285521
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 434285518}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &437694935 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -5377,6 +5700,7 @@ GameObject:
   m_Component:
   - component: {fileID: 464128300}
   - component: {fileID: 464128301}
+  - component: {fileID: 464128302}
   m_Layer: 0
   m_Name: Point (58)
   m_TagString: TurnPoint
@@ -5415,6 +5739,22 @@ MonoBehaviour:
   - {fileID: 87530295}
   - {fileID: 830740726}
   vectToNextPoint: []
+--- !u!58 &464128302
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 464128299}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &464202486
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5506,6 +5846,7 @@ GameObject:
   m_Component:
   - component: {fileID: 471503048}
   - component: {fileID: 471503049}
+  - component: {fileID: 471503050}
   m_Layer: 0
   m_Name: Point (57)
   m_TagString: TurnPoint
@@ -5543,6 +5884,22 @@ MonoBehaviour:
   - {fileID: 464128301}
   - {fileID: 434285520}
   vectToNextPoint: []
+--- !u!58 &471503050
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 471503047}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1 &483100652
 GameObject:
   m_ObjectHideFlags: 0
@@ -5553,6 +5910,7 @@ GameObject:
   m_Component:
   - component: {fileID: 483100653}
   - component: {fileID: 483100654}
+  - component: {fileID: 483100655}
   m_Layer: 0
   m_Name: Point (40)
   m_TagString: TurnPoint
@@ -5590,6 +5948,22 @@ MonoBehaviour:
   - {fileID: 1871226356}
   - {fileID: 2096923174}
   vectToNextPoint: []
+--- !u!58 &483100655
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 483100652}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &483226851
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6229,6 +6603,7 @@ GameObject:
   m_Component:
   - component: {fileID: 534902196}
   - component: {fileID: 534902197}
+  - component: {fileID: 534902198}
   m_Layer: 0
   m_Name: Point (55)
   m_TagString: TurnPoint
@@ -6265,6 +6640,22 @@ MonoBehaviour:
   nextPoints:
   - {fileID: 182245697}
   vectToNextPoint: []
+--- !u!58 &534902198
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 534902195}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &540283985
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6575,6 +6966,7 @@ GameObject:
   m_Component:
   - component: {fileID: 579971691}
   - component: {fileID: 579971692}
+  - component: {fileID: 579971693}
   m_Layer: 0
   m_Name: Point (65)
   m_TagString: TurnPoint
@@ -6612,6 +7004,22 @@ MonoBehaviour:
   - {fileID: 837595542}
   - {fileID: 1016192061}
   vectToNextPoint: []
+--- !u!58 &579971693
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 579971690}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &591814371
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6766,6 +7174,7 @@ GameObject:
   m_Component:
   - component: {fileID: 611898085}
   - component: {fileID: 611898086}
+  - component: {fileID: 611898087}
   m_Layer: 0
   m_Name: Point (7)
   m_TagString: TurnPoint
@@ -6803,6 +7212,22 @@ MonoBehaviour:
   - {fileID: 35856917}
   - {fileID: 2029139891}
   vectToNextPoint: []
+--- !u!58 &611898087
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 611898084}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &617686685
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6969,6 +7394,7 @@ GameObject:
   m_Component:
   - component: {fileID: 633249393}
   - component: {fileID: 633249394}
+  - component: {fileID: 633249395}
   m_Layer: 0
   m_Name: Point (17)
   m_TagString: TurnPoint
@@ -7007,6 +7433,22 @@ MonoBehaviour:
   - {fileID: 1432316525}
   - {fileID: 1406301975}
   vectToNextPoint: []
+--- !u!58 &633249395
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 633249392}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &636826665 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -7755,6 +8197,7 @@ GameObject:
   m_Component:
   - component: {fileID: 754423732}
   - component: {fileID: 754423733}
+  - component: {fileID: 754423734}
   m_Layer: 0
   m_Name: Point (38)
   m_TagString: TurnPoint
@@ -7792,6 +8235,22 @@ MonoBehaviour:
   - {fileID: 1794904359}
   - {fileID: 2096923174}
   vectToNextPoint: []
+--- !u!58 &754423734
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 754423731}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &760702272
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8252,6 +8711,7 @@ GameObject:
   m_Component:
   - component: {fileID: 809144296}
   - component: {fileID: 809144297}
+  - component: {fileID: 809144298}
   m_Layer: 0
   m_Name: Point (16)
   m_TagString: TurnPoint
@@ -8289,6 +8749,22 @@ MonoBehaviour:
   - {fileID: 1951061046}
   - {fileID: 633249394}
   vectToNextPoint: []
+--- !u!58 &809144298
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 809144295}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &813017429 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -8305,6 +8781,7 @@ GameObject:
   m_Component:
   - component: {fileID: 830740725}
   - component: {fileID: 830740726}
+  - component: {fileID: 830740727}
   m_Layer: 0
   m_Name: Point (59)
   m_TagString: TurnPoint
@@ -8342,6 +8819,22 @@ MonoBehaviour:
   - {fileID: 464128301}
   - {fileID: 1928285391}
   vectToNextPoint: []
+--- !u!58 &830740727
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 830740724}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1 &837595540
 GameObject:
   m_ObjectHideFlags: 0
@@ -8352,6 +8845,7 @@ GameObject:
   m_Component:
   - component: {fileID: 837595541}
   - component: {fileID: 837595542}
+  - component: {fileID: 837595543}
   m_Layer: 0
   m_Name: Point (64)
   m_TagString: TurnPoint
@@ -8390,6 +8884,22 @@ MonoBehaviour:
   - {fileID: 579971692}
   - {fileID: 87530295}
   vectToNextPoint: []
+--- !u!58 &837595543
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 837595540}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &839532115 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -8424,6 +8934,7 @@ GameObject:
   m_Component:
   - component: {fileID: 851629451}
   - component: {fileID: 851629452}
+  - component: {fileID: 851629453}
   m_Layer: 0
   m_Name: Point (44)
   m_TagString: TurnPoint
@@ -8462,6 +8973,22 @@ MonoBehaviour:
   - {fileID: 2028632327}
   - {fileID: 1962539856}
   vectToNextPoint: []
+--- !u!58 &851629453
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 851629450}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &871492080
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9147,6 +9674,7 @@ GameObject:
   m_Component:
   - component: {fileID: 940956808}
   - component: {fileID: 940956809}
+  - component: {fileID: 940956810}
   m_Layer: 0
   m_Name: Point (35)
   m_TagString: TurnPoint
@@ -9186,6 +9714,22 @@ MonoBehaviour:
   - {fileID: 229349539}
   - {fileID: 1794904359}
   vectToNextPoint: []
+--- !u!58 &940956810
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 940956807}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &956846584 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -9271,6 +9815,7 @@ GameObject:
   m_Component:
   - component: {fileID: 965431288}
   - component: {fileID: 965431289}
+  - component: {fileID: 965431290}
   m_Layer: 0
   m_Name: Point (32)
   m_TagString: TurnPoint
@@ -9309,6 +9854,22 @@ MonoBehaviour:
   - {fileID: 1201875103}
   - {fileID: 174551365}
   vectToNextPoint: []
+--- !u!58 &965431290
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 965431287}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &969700061 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -9532,6 +10093,7 @@ GameObject:
   m_Component:
   - component: {fileID: 981490221}
   - component: {fileID: 981490222}
+  - component: {fileID: 981490223}
   m_Layer: 0
   m_Name: Point (10)
   m_TagString: TurnPoint
@@ -9569,6 +10131,22 @@ MonoBehaviour:
   - {fileID: 1165071464}
   - {fileID: 2094223546}
   vectToNextPoint: []
+--- !u!58 &981490223
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 981490220}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &989400136
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9936,6 +10514,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1016192060}
   - component: {fileID: 1016192061}
+  - component: {fileID: 1016192062}
   m_Layer: 0
   m_Name: Point (66)
   m_TagString: TurnPoint
@@ -9971,6 +10550,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nextPoints: []
   vectToNextPoint: []
+--- !u!58 &1016192062
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1016192059}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &1031021708 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -10873,6 +11468,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1133897266}
   - component: {fileID: 1133897267}
+  - component: {fileID: 1133897268}
   m_Layer: 0
   m_Name: Point (62)
   m_TagString: TurnPoint
@@ -10910,6 +11506,22 @@ MonoBehaviour:
   - {fileID: 1928285391}
   - {fileID: 1658104947}
   vectToNextPoint: []
+--- !u!58 &1133897268
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1133897265}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &1139501630 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -10926,6 +11538,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1142385299}
   - component: {fileID: 1142385300}
+  - component: {fileID: 1142385301}
   m_Layer: 0
   m_Name: Point (24)
   m_TagString: TurnPoint
@@ -10964,6 +11577,22 @@ MonoBehaviour:
   - {fileID: 1804325894}
   - {fileID: 2026861993}
   vectToNextPoint: []
+--- !u!58 &1142385301
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1142385298}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &1143667237
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11193,6 +11822,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1165071463}
   - component: {fileID: 1165071464}
+  - component: {fileID: 1165071465}
   m_Layer: 0
   m_Name: Point (9)
   m_TagString: TurnPoint
@@ -11230,6 +11860,22 @@ MonoBehaviour:
   - {fileID: 1527047511}
   - {fileID: 981490222}
   vectToNextPoint: []
+--- !u!58 &1165071465
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1165071462}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &1173503709
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11378,6 +12024,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1174441302}
   - component: {fileID: 1174441303}
+  - component: {fileID: 1174441304}
   m_Layer: 0
   m_Name: Point (23)
   m_TagString: TurnPoint
@@ -11417,6 +12064,22 @@ MonoBehaviour:
   - {fileID: 1142385300}
   - {fileID: 285621356}
   vectToNextPoint: []
+--- !u!58 &1174441304
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1174441301}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &1181493202
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11790,6 +12453,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1201875102}
   - component: {fileID: 1201875103}
+  - component: {fileID: 1201875104}
   m_Layer: 0
   m_Name: Point (31)
   m_TagString: TurnPoint
@@ -11827,6 +12491,22 @@ MonoBehaviour:
   - {fileID: 192882521}
   - {fileID: 965431289}
   vectToNextPoint: []
+--- !u!58 &1201875104
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1201875101}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &1206263581 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -11999,6 +12679,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1238018933}
   - component: {fileID: 1238018934}
+  - component: {fileID: 1238018935}
   m_Layer: 0
   m_Name: Point (21)
   m_TagString: TurnPoint
@@ -12036,6 +12717,22 @@ MonoBehaviour:
   - {fileID: 1406301975}
   - {fileID: 177954819}
   vectToNextPoint: []
+--- !u!58 &1238018935
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1238018932}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &1246522814
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12265,6 +12962,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1270607018}
   - component: {fileID: 1270607019}
+  - component: {fileID: 1270607020}
   m_Layer: 0
   m_Name: Point (14)
   m_TagString: TurnPoint
@@ -12303,6 +13001,22 @@ MonoBehaviour:
   - {fileID: 1951061046}
   - {fileID: 1317206015}
   vectToNextPoint: []
+--- !u!58 &1270607020
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1270607017}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &1278068337 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -12418,6 +13132,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1317206014}
   - component: {fileID: 1317206015}
+  - component: {fileID: 1317206016}
   m_Layer: 0
   m_Name: Point (30)
   m_TagString: TurnPoint
@@ -12456,6 +13171,22 @@ MonoBehaviour:
   - {fileID: 1804325894}
   - {fileID: 192882521}
   vectToNextPoint: []
+--- !u!58 &1317206016
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1317206013}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &1318216424
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13117,6 +13848,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1401553454}
   - component: {fileID: 1401553455}
+  - component: {fileID: 1401553456}
   m_Layer: 0
   m_Name: Point (19)
   m_TagString: TurnPoint
@@ -13154,6 +13886,22 @@ MonoBehaviour:
   - {fileID: 1432316525}
   - {fileID: 2111459979}
   vectToNextPoint: []
+--- !u!58 &1401553456
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1401553453}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1 &1406301973
 GameObject:
   m_ObjectHideFlags: 0
@@ -13164,6 +13912,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1406301974}
   - component: {fileID: 1406301975}
+  - component: {fileID: 1406301976}
   m_Layer: 0
   m_Name: Point (20)
   m_TagString: TurnPoint
@@ -13201,6 +13950,22 @@ MonoBehaviour:
   - {fileID: 633249394}
   - {fileID: 1238018934}
   vectToNextPoint: []
+--- !u!58 &1406301976
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1406301973}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &1407083985
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13505,6 +14270,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1432316524}
   - component: {fileID: 1432316525}
+  - component: {fileID: 1432316526}
   m_Layer: 0
   m_Name: Point (18)
   m_TagString: TurnPoint
@@ -13542,6 +14308,22 @@ MonoBehaviour:
   - {fileID: 633249394}
   - {fileID: 1401553455}
   vectToNextPoint: []
+--- !u!58 &1432316526
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1432316523}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &1434713373 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -14278,6 +15060,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1527047510}
   - component: {fileID: 1527047511}
+  - component: {fileID: 1527047512}
   m_Layer: 0
   m_Name: Point (8)
   m_TagString: TurnPoint
@@ -14315,6 +15098,22 @@ MonoBehaviour:
   - {fileID: 2029139891}
   - {fileID: 1165071464}
   vectToNextPoint: []
+--- !u!58 &1527047512
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1527047509}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &1528743057
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15261,6 +16060,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1658104946}
   - component: {fileID: 1658104947}
+  - component: {fileID: 1658104948}
   m_Layer: 0
   m_Name: Point (63)
   m_TagString: TurnPoint
@@ -15299,6 +16099,22 @@ MonoBehaviour:
   - {fileID: 837595542}
   - {fileID: 2028632327}
   vectToNextPoint: []
+--- !u!58 &1658104948
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1658104945}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &1664945885
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15464,6 +16280,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1686066423}
   - component: {fileID: 1686066424}
+  - component: {fileID: 1686066425}
   m_Layer: 0
   m_Name: Point (28)
   m_TagString: TurnPoint
@@ -15501,6 +16318,22 @@ MonoBehaviour:
   - {fileID: 1934186743}
   - {fileID: 2094223546}
   vectToNextPoint: []
+--- !u!58 &1686066425
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1686066422}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &1686555072 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -15592,6 +16425,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1702516428}
   - component: {fileID: 1702516429}
+  - component: {fileID: 1702516430}
   m_Layer: 0
   m_Name: Point (45)
   m_TagString: TurnPoint
@@ -15631,6 +16465,22 @@ MonoBehaviour:
   - {fileID: 2096923174}
   - {fileID: 1871226356}
   vectToNextPoint: []
+--- !u!58 &1702516430
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1702516427}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &1702717621
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16241,6 +17091,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1794904358}
   - component: {fileID: 1794904359}
+  - component: {fileID: 1794904360}
   m_Layer: 0
   m_Name: Point (37)
   m_TagString: TurnPoint
@@ -16279,6 +17130,22 @@ MonoBehaviour:
   - {fileID: 1702516429}
   - {fileID: 754423733}
   vectToNextPoint: []
+--- !u!58 &1794904360
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1794904357}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &1795664445 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -16301,6 +17168,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1804325893}
   - component: {fileID: 1804325894}
+  - component: {fileID: 1804325895}
   m_Layer: 0
   m_Name: Point (25)
   m_TagString: TurnPoint
@@ -16338,6 +17206,22 @@ MonoBehaviour:
   - {fileID: 1142385300}
   - {fileID: 1317206015}
   vectToNextPoint: []
+--- !u!58 &1804325895
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1804325892}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1 &1809927363
 GameObject:
   m_ObjectHideFlags: 0
@@ -16348,6 +17232,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1809927364}
   - component: {fileID: 1809927365}
+  - component: {fileID: 1809927366}
   m_Layer: 0
   m_Name: Point (48)
   m_TagString: TurnPoint
@@ -16386,6 +17271,22 @@ MonoBehaviour:
   - {fileID: 5833041}
   - {fileID: 172524149}
   vectToNextPoint: []
+--- !u!58 &1809927366
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1809927363}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &1811805913
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17120,6 +18021,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1871226355}
   - component: {fileID: 1871226356}
+  - component: {fileID: 1871226357}
   m_Layer: 0
   m_Name: Point (41)
   m_TagString: TurnPoint
@@ -17158,6 +18060,22 @@ MonoBehaviour:
   - {fileID: 113503344}
   - {fileID: 1702516429}
   vectToNextPoint: []
+--- !u!58 &1871226357
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1871226354}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &1873679869 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -17324,6 +18242,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1928285390}
   - component: {fileID: 1928285391}
+  - component: {fileID: 1928285392}
   m_Layer: 0
   m_Name: Point (60)
   m_TagString: TurnPoint
@@ -17362,6 +18281,22 @@ MonoBehaviour:
   - {fileID: 87530295}
   - {fileID: 1133897267}
   vectToNextPoint: []
+--- !u!58 &1928285392
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1928285389}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &1928434152
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17516,6 +18451,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1934186742}
   - component: {fileID: 1934186743}
+  - component: {fileID: 1934186744}
   m_Layer: 0
   m_Name: Point (27)
   m_TagString: TurnPoint
@@ -17554,6 +18490,22 @@ MonoBehaviour:
   - {fileID: 192882521}
   - {fileID: 1686066424}
   vectToNextPoint: []
+--- !u!58 &1934186744
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1934186741}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &1938012025
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17714,6 +18666,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1951061045}
   - component: {fileID: 1951061046}
+  - component: {fileID: 1951061047}
   m_Layer: 0
   m_Name: Point (15)
   m_TagString: TurnPoint
@@ -17752,6 +18705,22 @@ MonoBehaviour:
   - {fileID: 809144297}
   - {fileID: 1174441303}
   vectToNextPoint: []
+--- !u!58 &1951061047
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1951061044}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &1951191339 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -17913,6 +18882,9 @@ GameObject:
   - component: {fileID: 1954963369}
   - component: {fileID: 1954963368}
   - component: {fileID: 1954963367}
+  - component: {fileID: 1954963371}
+  - component: {fileID: 1954963370}
+  - component: {fileID: 1954963372}
   m_Layer: 0
   m_Name: MsPacman
   m_TagString: MsPacMan
@@ -18001,6 +18973,57 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1954963370
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1954963366}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.46
+--- !u!50 &1954963371
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1954963366}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 0.001
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 1
+  m_Constraints: 4
+--- !u!114 &1954963372
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1954963366}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7681742df84b2fa4188c8c424c506e92, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 4
+  pausedSprite: {fileID: 0}
 --- !u!4 &1957308584 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -18017,6 +19040,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1962539855}
   - component: {fileID: 1962539856}
+  - component: {fileID: 1962539857}
   m_Layer: 0
   m_Name: Point (46)
   m_TagString: TurnPoint
@@ -18054,6 +19078,22 @@ MonoBehaviour:
   - {fileID: 851629452}
   - {fileID: 270937413}
   vectToNextPoint: []
+--- !u!58 &1962539857
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1962539854}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &1963740543
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18370,6 +19410,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2002061716}
   - component: {fileID: 2002061717}
+  - component: {fileID: 2002061718}
   m_Layer: 0
   m_Name: Point (52)
   m_TagString: TurnPoint
@@ -18408,6 +19449,22 @@ MonoBehaviour:
   - {fileID: 2026861993}
   - {fileID: 285621356}
   vectToNextPoint: []
+--- !u!58 &2002061718
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2002061715}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!4 &2012394909 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -18717,6 +19774,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2024418082}
   - component: {fileID: 2024418083}
+  - component: {fileID: 2024418084}
   m_Layer: 0
   m_Name: Point (13)
   m_TagString: TurnPoint
@@ -18754,6 +19812,22 @@ MonoBehaviour:
   - {fileID: 333301644}
   - {fileID: 1270607019}
   vectToNextPoint: []
+--- !u!58 &2024418084
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2024418081}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1 &2026861991
 GameObject:
   m_ObjectHideFlags: 0
@@ -18764,6 +19838,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2026861992}
   - component: {fileID: 2026861993}
+  - component: {fileID: 2026861994}
   m_Layer: 0
   m_Name: Point (53)
   m_TagString: TurnPoint
@@ -18802,6 +19877,22 @@ MonoBehaviour:
   - {fileID: 1142385300}
   - {fileID: 174551365}
   vectToNextPoint: []
+--- !u!58 &2026861994
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2026861991}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1 &2028632325
 GameObject:
   m_ObjectHideFlags: 0
@@ -18812,6 +19903,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2028632326}
   - component: {fileID: 2028632327}
+  - component: {fileID: 2028632328}
   m_Layer: 0
   m_Name: Point (43)
   m_TagString: TurnPoint
@@ -18850,6 +19942,22 @@ MonoBehaviour:
   - {fileID: 851629452}
   - {fileID: 1658104947}
   vectToNextPoint: []
+--- !u!58 &2028632328
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2028632325}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1 &2029139889
 GameObject:
   m_ObjectHideFlags: 0
@@ -18860,6 +19968,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2029139890}
   - component: {fileID: 2029139891}
+  - component: {fileID: 2029139892}
   m_Layer: 0
   m_Name: Point (67)
   m_TagString: TurnPoint
@@ -18898,6 +20007,22 @@ MonoBehaviour:
   - {fileID: 611898086}
   - {fileID: 1527047511}
   vectToNextPoint: []
+--- !u!58 &2029139892
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2029139889}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &2033373022
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19415,6 +20540,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2059047432}
   - component: {fileID: 2059047433}
+  - component: {fileID: 2059047434}
   m_Layer: 0
   m_Name: Point (34)
   m_TagString: TurnPoint
@@ -19453,6 +20579,22 @@ MonoBehaviour:
   - {fileID: 940956809}
   - {fileID: 5833041}
   vectToNextPoint: []
+--- !u!58 &2059047434
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2059047431}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &2065824325
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19682,6 +20824,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2094223545}
   - component: {fileID: 2094223546}
+  - component: {fileID: 2094223547}
   m_Layer: 0
   m_Name: Point (29)
   m_TagString: TurnPoint
@@ -19719,6 +20862,22 @@ MonoBehaviour:
   - {fileID: 1686066424}
   - {fileID: 981490222}
   vectToNextPoint: []
+--- !u!58 &2094223547
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2094223544}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1 &2096923172
 GameObject:
   m_ObjectHideFlags: 0
@@ -19729,6 +20888,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2096923173}
   - component: {fileID: 2096923174}
+  - component: {fileID: 2096923175}
   m_Layer: 0
   m_Name: Point (39)
   m_TagString: TurnPoint
@@ -19767,6 +20927,22 @@ MonoBehaviour:
   - {fileID: 483100654}
   - {fileID: 1702516429}
   vectToNextPoint: []
+--- !u!58 &2096923175
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2096923172}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1001 &2097713067
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20140,6 +21316,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2111459978}
   - component: {fileID: 2111459979}
+  - component: {fileID: 2111459980}
   m_Layer: 0
   m_Name: Point (11)
   m_TagString: TurnPoint
@@ -20177,6 +21354,22 @@ MonoBehaviour:
   - {fileID: 981490222}
   - {fileID: 333301644}
   vectToNextPoint: []
+--- !u!58 &2111459980
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2111459977}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.1
 --- !u!1 &2115892675
 GameObject:
   m_ObjectHideFlags: 0
