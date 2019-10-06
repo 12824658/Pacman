@@ -195,7 +195,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (49)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -508,7 +508,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (6)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -1040,7 +1040,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (61)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -1325,7 +1325,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (5)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -1671,7 +1671,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (51)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -1810,7 +1810,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (42)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -1949,7 +1949,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (4)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -2832,7 +2832,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -2902,7 +2902,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (50)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -3036,7 +3036,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (33)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -3170,7 +3170,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (22)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -3252,7 +3252,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (36)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -3315,7 +3315,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (26)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -3455,7 +3455,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (1)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -3521,7 +3521,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (3)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -3868,7 +3868,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (47)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -4007,7 +4007,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (54)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -4557,7 +4557,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (12)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -5375,7 +5375,7 @@ GameObject:
   - component: {fileID: 432490418}
   m_Layer: 0
   m_Name: TurningPoints
-  m_TagString: PowerUp
+  m_TagString: TurnPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5489,7 +5489,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (56)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -5704,7 +5704,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (58)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -5850,7 +5850,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (57)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -5914,7 +5914,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (40)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -6607,7 +6607,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (55)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -6970,7 +6970,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (65)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -7178,7 +7178,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (7)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -7398,7 +7398,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (17)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -8201,7 +8201,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (38)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -8715,7 +8715,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (16)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -8785,7 +8785,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (59)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -8849,7 +8849,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (64)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -8938,7 +8938,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (44)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -9678,7 +9678,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (35)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -9819,7 +9819,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (32)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -10097,7 +10097,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (10)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -10518,7 +10518,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (66)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -11014,8 +11014,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1068083529}
   - component: {fileID: 1068083528}
+  - component: {fileID: 1068083530}
   m_Layer: 0
-  m_Name: Level
+  m_Name: GBGrid
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11077,12 +11078,24 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1068083527}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 13.6, y: 14.5, z: 0}
+  m_LocalPosition: {x: 13.5, y: 14.5, z: 0}
   m_LocalScale: {x: 1.033032, y: 1.01092, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1068083530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1068083527}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2df03d5ff453af74cb496663b6b3fda8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &1093357779 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -11472,7 +11485,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (62)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -11542,7 +11555,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (24)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -11826,7 +11839,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (9)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -12028,7 +12041,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (23)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -12457,7 +12470,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (31)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -12683,7 +12696,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (21)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -12966,7 +12979,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (14)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -13136,7 +13149,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (30)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -13852,7 +13865,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (19)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -13916,7 +13929,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (20)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -14274,7 +14287,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (18)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -15064,7 +15077,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (8)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -16064,7 +16077,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (63)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -16284,7 +16297,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (28)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -16429,7 +16442,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (45)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -17095,7 +17108,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (37)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -17172,7 +17185,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (25)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -17236,7 +17249,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (48)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -18025,7 +18038,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (41)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -18246,7 +18259,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (60)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -18455,7 +18468,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (27)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -18670,7 +18683,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (15)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -19023,7 +19036,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 4
-  pausedSprite: {fileID: 0}
+  pausedSprite: {fileID: 21300034, guid: e7507e0043d0bca4c81bb0c66e0b3444, type: 3}
 --- !u!4 &1957308584 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4849308932532595097, guid: d98ea306ef268334bb8dccdd9a40e8b3,
@@ -19044,7 +19057,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (46)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -19414,7 +19427,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (52)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -19778,7 +19791,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (13)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -19842,7 +19855,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (53)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -19907,7 +19920,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (43)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -19972,7 +19985,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (67)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -20544,7 +20557,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (34)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -20828,7 +20841,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (29)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -20892,7 +20905,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (39)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -21320,7 +21333,7 @@ GameObject:
   m_Layer: 0
   m_Name: Point (11)
   m_TagString: TurnPoint
-  m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -21385,7 +21398,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &2115892676
 Transform:
   m_ObjectHideFlags: 0

@@ -6,7 +6,7 @@ public class TurningPoint : MonoBehaviour
 {
     public TurningPoint[] nextPoints;
     public Vector2[] vectToNextPoint;
-    // Start is called before the first frame update
+
     // Use this for initialization
     void Start()
     {
@@ -18,7 +18,7 @@ public class TurningPoint : MonoBehaviour
         for (int i = 0; i < nextPoints.Length; i++)
         {
 
-            // Get each point to find its position
+            // Get each point so we can find its position
             // in relation to the current TurningPoint
             TurningPoint nextPoint = nextPoints[i];
 
