@@ -45,7 +45,7 @@ public class MsPacman : MonoBehaviour {
 	// 4. Add other Ghost Scripts
 	Ghost pinkGhostScript;
 	Ghost blueGhostScript;
-	Ghost orangeGhostScript;
+	Ghost greenGhostScript;
 
 	// Makes sure components have been created when the 
 	// game starts
@@ -62,7 +62,7 @@ public class MsPacman : MonoBehaviour {
 		// 4. Get other Ghost GameObjects
 		GameObject pinkGhostGO = GameObject.Find ("PinkGhost");
 		GameObject blueGhostGO = GameObject.Find ("BlueGhost");
-		GameObject orangeGhostGO = GameObject.Find ("OrangeGhost");
+		GameObject greenGhostGO = GameObject.Find ("GreenGhost");
 
 		// Get the Script attached to the RedGhost
 		redGhostScript = (Ghost) redGhostGO.GetComponent(typeof(Ghost));
@@ -70,7 +70,7 @@ public class MsPacman : MonoBehaviour {
 		// 4. Get other Ghost Scripts
 		pinkGhostScript = (Ghost) pinkGhostGO.GetComponent(typeof(Ghost));
 		blueGhostScript = (Ghost) blueGhostGO.GetComponent(typeof(Ghost));
-		orangeGhostScript = (Ghost) orangeGhostGO.GetComponent(typeof(Ghost));
+		greenGhostScript = (Ghost) greenGhostGO.GetComponent(typeof(Ghost));
 	}
 
 	void Start(){
@@ -362,7 +362,7 @@ public class MsPacman : MonoBehaviour {
 			// 4. Turn other Ghosts blue
 			pinkGhostScript.TurnGhostBlue ();
 			blueGhostScript.TurnGhostBlue ();
-			orangeGhostScript.TurnGhostBlue ();
+			greenGhostScript.TurnGhostBlue ();
 
 			// 3. Add points earned
 			IncreaseTextUIScore (50);
@@ -443,9 +443,9 @@ public class MsPacman : MonoBehaviour {
 					audioSource.Stop ();
 					Destroy (gameObject);
 				}
-			} else if (ghostName == "OrangeGhost") {
-				if (orangeGhostScript.isGhostBlue) {
-					orangeGhostScript.ResetGhostAfterEaten (gameObject);
+			} else if (ghostName == "GreenGhost") {
+				if (greenGhostScript.isGhostBlue) {
+					greenGhostScript.ResetGhostAfterEaten (gameObject);
 					SoundManager.Instance.PlayOneShot (SoundManager.Instance.eatingGhost);
 					IncreaseTextUIScore (400);
 				} else {
