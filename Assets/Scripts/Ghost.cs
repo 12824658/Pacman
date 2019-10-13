@@ -31,14 +31,13 @@ public class Ghost : MonoBehaviour
 	// The index to the first destination the Ghost aims at
 	// Each Ghost aims at a different one
 	public int destinationIndex;
-
 	// Direction Ghost will move when it hits a Point
 	Vector2 moveVect;
 
 	// Used to change the sprite
 	public SpriteRenderer sr;
 
-	// 4. Make this public so Ms. Pac-Man can get its value
+	// Make this public so Ms. Pac-Man can get its value
 	public bool isGhostBlue = false;
 
 	// Stores blue version of ghost
@@ -56,15 +55,15 @@ public class Ghost : MonoBehaviour
 
 
 	// Add Rigidbody to Ghosts
-	void Awake(){
+	void Awake()
+    {
 		// Get Ghost Rigidbody
 		rb = GetComponent<Rigidbody2D> ();
 
-		// 3. Get the SpriteRenderer
+		// Get the SpriteRenderer
 		sr = gameObject.GetComponent<SpriteRenderer>();
 
 	}
-
 
 	void Start()
     {
@@ -106,17 +105,15 @@ public class Ghost : MonoBehaviour
 		// Stop the Ghost
 		rb.velocity = Vector2.zero;
 
-		// 5. 
 		pacmanGO = pacman;
 
 		// Starts moving Ghost after defined seconds
 		Invoke ("StartMovingAfterEaten", waitTimeAfterEaten);
-
-
 	}
 
 	// Called to move the Ghost
-	void StartMovingAfterEaten(){
+	void StartMovingAfterEaten()
+    {
 
 		// Move Ghost from cell to starting position
 		transform.position = new Vector2 (13.5f, 18.5f);
@@ -125,11 +122,13 @@ public class Ghost : MonoBehaviour
 		float xDest = destinations[destinationIndex].x;
 
 		// If Ghost x pos > destination x
-		if(transform.position.x > xDest){
+		if(transform.position.x > xDest)
+        {
 
 			// Move the Ghost left
 			rb.velocity = new Vector2 (-1, 0) * speed;
-		} else {
+		} else
+        {
 			// Move the Ghost right
 			rb.velocity = new Vector2 (1, 0) * speed;
 		}
@@ -582,7 +581,7 @@ public class Ghost : MonoBehaviour
 			foreach (Vector2 vect in vectToNextPoint)
             {
 
-				Debug.Log ("Check " + vect);
+				Debug.Log ("Check vector: " + vect);
 
 				if (vect == dir)
                 {
