@@ -463,8 +463,6 @@ public class Ghost : MonoBehaviour
 		}
 			
 		// Ys Equal and Want to go Right
-		// Done because the above don't test for if Xs & Ys are equal
-
 		if ((int)(dest.y) == (int)(yPos)
 			&& destXDist > 0){
 
